@@ -1,0 +1,5 @@
+Accessory Outputs=ACC1,ACC2
+Balance=13,12,11,10,9,8,7,6,5,4,3,2,1
+CAN Output=CANL,CANH
+I2C=SCL,SDA
+USB=DM,DP
