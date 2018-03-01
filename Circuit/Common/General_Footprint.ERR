@@ -1,0 +1,63 @@
+Altium Designer System: Library Component Rule Check
+PCB File : General_Footprint
+Date     : 2018-02-03
+Time     : ¿ÀÈÄ 3:38:15
+
+
+Name                Warnings
+------------------------------------------------------------------
+RGT0016C                 Duplicate Pad Name On Pads Pad Free-V(0.6mm,-0.6mm) on Multi-Layer And Pad Free-V(0.6mm,0.6mm) on Multi-Layer
+RGT0016C                 Duplicate Pad Name On Pads Pad Free-V(-0.6mm,-0.6mm) on Multi-Layer And Pad Free-V(0.6mm,0.6mm) on Multi-Layer
+RGT0016C                 Duplicate Pad Name On Pads Pad Free-V(-0.6mm,0.6mm) on Multi-Layer And Pad Free-V(0.6mm,0.6mm) on Multi-Layer
+
+21-0140L_T2055-4         Duplicate Primitives: Track (-1.499mm,2.553mm)(-1.143mm,2.553mm) on Mechanical 13 And Track (-1.499mm,2.553mm)(-1.143mm,2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-0.839mm,2.553mm)(-0.483mm,2.553mm) on Mechanical 13 And Track (-0.839mm,2.553mm)(-0.483mm,2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-0.178mm,2.553mm)(0.177mm,2.553mm) on Mechanical 13 And Track (-0.178mm,2.553mm)(0.177mm,2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (0.482mm,2.553mm)(0.838mm,2.553mm) on Mechanical 13 And Track (0.482mm,2.553mm)(0.838mm,2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (1.143mm,2.553mm)(1.498mm,2.553mm) on Mechanical 13 And Track (1.143mm,2.553mm)(1.498mm,2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (2.552mm,1.143mm)(2.552mm,1.499mm) on Mechanical 13 And Track (2.552mm,1.143mm)(2.552mm,1.499mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (2.552mm,0.483mm)(2.552mm,0.838mm) on Mechanical 13 And Track (2.552mm,0.483mm)(2.552mm,0.838mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (2.552mm,-0.178mm)(2.552mm,0.178mm) on Mechanical 13 And Track (2.552mm,-0.178mm)(2.552mm,0.178mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (2.552mm,-0.838mm)(2.552mm,-0.483mm) on Mechanical 13 And Track (2.552mm,-0.838mm)(2.552mm,-0.483mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (2.552mm,-1.499mm)(2.552mm,-1.143mm) on Mechanical 13 And Track (2.552mm,-1.499mm)(2.552mm,-1.143mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (1.143mm,-2.553mm)(1.498mm,-2.553mm) on Mechanical 13 And Track (1.143mm,-2.553mm)(1.498mm,-2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (0.482mm,-2.553mm)(0.838mm,-2.553mm) on Mechanical 13 And Track (0.482mm,-2.553mm)(0.838mm,-2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-0.178mm,-2.553mm)(0.177mm,-2.553mm) on Mechanical 13 And Track (-0.178mm,-2.553mm)(0.177mm,-2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-0.839mm,-2.553mm)(-0.483mm,-2.553mm) on Mechanical 13 And Track (-0.839mm,-2.553mm)(-0.483mm,-2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-1.499mm,-2.553mm)(-1.143mm,-2.553mm) on Mechanical 13 And Track (-1.499mm,-2.553mm)(-1.143mm,-2.553mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-2.553mm,-1.499mm)(-2.553mm,-1.143mm) on Mechanical 13 And Track (-2.553mm,-1.499mm)(-2.553mm,-1.143mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-2.553mm,-0.838mm)(-2.553mm,-0.483mm) on Mechanical 13 And Track (-2.553mm,-0.838mm)(-2.553mm,-0.483mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-2.553mm,-0.178mm)(-2.553mm,0.178mm) on Mechanical 13 And Track (-2.553mm,-0.178mm)(-2.553mm,0.178mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-2.553mm,0.483mm)(-2.553mm,0.838mm) on Mechanical 13 And Track (-2.553mm,0.483mm)(-2.553mm,0.838mm) on Mechanical 13
+21-0140L_T2055-4         Duplicate Primitives: Track (-2.553mm,1.143mm)(-2.553mm,1.499mm) on Mechanical 13 And Track (-2.553mm,1.143mm)(-2.553mm,1.499mm) on Mechanical 13
+
+21-0140L_T2855-5         Duplicate Pad Name On Pads Pad Free-29(0mm,0mm) on Top Layer And Pad Free-29(-2.375mm,-1.524mm) on Top Layer
+21-0140L_T2855-5         Duplicate Primitives: Track (1.372mm,2.553mm)(1.676mm,2.553mm) on Mechanical 13 And Track (1.372mm,2.553mm)(1.676mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (0.864mm,2.553mm)(1.168mm,2.553mm) on Mechanical 13 And Track (0.864mm,2.553mm)(1.168mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (0.356mm,2.553mm)(0.66mm,2.553mm) on Mechanical 13 And Track (0.356mm,2.553mm)(0.66mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-0.152mm,2.553mm)(0.152mm,2.553mm) on Mechanical 13 And Track (-0.152mm,2.553mm)(0.152mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-0.66mm,2.553mm)(-0.356mm,2.553mm) on Mechanical 13 And Track (-0.66mm,2.553mm)(-0.356mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-1.168mm,2.553mm)(-0.864mm,2.553mm) on Mechanical 13 And Track (-1.168mm,2.553mm)(-0.864mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-1.676mm,2.553mm)(-1.372mm,2.553mm) on Mechanical 13 And Track (-1.676mm,2.553mm)(-1.372mm,2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,1.372mm)(-2.553mm,1.676mm) on Mechanical 13 And Track (-2.553mm,1.372mm)(-2.553mm,1.676mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,0.864mm)(-2.553mm,1.168mm) on Mechanical 13 And Track (-2.553mm,0.864mm)(-2.553mm,1.168mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,0.356mm)(-2.553mm,0.66mm) on Mechanical 13 And Track (-2.553mm,0.356mm)(-2.553mm,0.66mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,-0.152mm)(-2.553mm,0.152mm) on Mechanical 13 And Track (-2.553mm,-0.152mm)(-2.553mm,0.152mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,-0.66mm)(-2.553mm,-0.356mm) on Mechanical 13 And Track (-2.553mm,-0.66mm)(-2.553mm,-0.356mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,-1.168mm)(-2.553mm,-0.864mm) on Mechanical 13 And Track (-2.553mm,-1.168mm)(-2.553mm,-0.864mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-2.553mm,-1.676mm)(-2.553mm,-1.372mm) on Mechanical 13 And Track (-2.553mm,-1.676mm)(-2.553mm,-1.372mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-1.676mm,-2.553mm)(-1.372mm,-2.553mm) on Mechanical 13 And Track (-1.676mm,-2.553mm)(-1.372mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-1.168mm,-2.553mm)(-0.864mm,-2.553mm) on Mechanical 13 And Track (-1.168mm,-2.553mm)(-0.864mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-0.66mm,-2.553mm)(-0.356mm,-2.553mm) on Mechanical 13 And Track (-0.66mm,-2.553mm)(-0.356mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (-0.152mm,-2.553mm)(0.152mm,-2.553mm) on Mechanical 13 And Track (-0.152mm,-2.553mm)(0.152mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (0.356mm,-2.553mm)(0.66mm,-2.553mm) on Mechanical 13 And Track (0.356mm,-2.553mm)(0.66mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (0.864mm,-2.553mm)(1.168mm,-2.553mm) on Mechanical 13 And Track (0.864mm,-2.553mm)(1.168mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (1.372mm,-2.553mm)(1.676mm,-2.553mm) on Mechanical 13 And Track (1.372mm,-2.553mm)(1.676mm,-2.553mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,-1.676mm)(2.553mm,-1.372mm) on Mechanical 13 And Track (2.553mm,-1.676mm)(2.553mm,-1.372mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,-1.168mm)(2.553mm,-0.864mm) on Mechanical 13 And Track (2.553mm,-1.168mm)(2.553mm,-0.864mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,-0.66mm)(2.553mm,-0.356mm) on Mechanical 13 And Track (2.553mm,-0.66mm)(2.553mm,-0.356mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,-0.152mm)(2.553mm,0.152mm) on Mechanical 13 And Track (2.553mm,-0.152mm)(2.553mm,0.152mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,0.356mm)(2.553mm,0.66mm) on Mechanical 13 And Track (2.553mm,0.356mm)(2.553mm,0.66mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,0.864mm)(2.553mm,1.168mm) on Mechanical 13 And Track (2.553mm,0.864mm)(2.553mm,1.168mm) on Mechanical 13
+21-0140L_T2855-5         Duplicate Primitives: Track (2.553mm,1.372mm)(2.553mm,1.676mm) on Mechanical 13 And Track (2.553mm,1.372mm)(2.553mm,1.676mm) on Mechanical 13
+
