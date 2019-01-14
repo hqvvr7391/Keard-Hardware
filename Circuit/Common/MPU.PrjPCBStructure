@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=MPU.SchDoc
-Record=SheetSymbol|SourceDocument=MPU.SchDoc|Designator=ACC|SchDesignator=ACC|FileName=MPU_ACC.SchDoc|SymbolType=Normal|RawFileName=MPU_ACC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MPU.SchDoc|Designator=U_MPU9250|SchDesignator=U_MPU9250|FileName=MPU9250.SchDoc|SymbolType=Device Sheet|RawFileName=MPU9250|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
